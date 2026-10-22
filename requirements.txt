@@ -42,7 +42,7 @@ langgraph-checkpoint==1.0.9
 langsmith==0.1.114
 marshmallow==3.22.0
 matplotlib-inline==0.1.7
-multidict==6.0.5
+multidict==7.0.0
 mypy-extensions==1.0.0
 nest-asyncio==1.6.0
 nltk==3.9.1
